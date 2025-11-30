@@ -7,7 +7,7 @@ A clean, responsive, Bootstrap-based landing page designed to showcase the featu
     https://ambigaa.github.io/mp3-downloader-landing-page/  
     
 **UI Design:**
-![WireFrame] (assets/img/wireframe.jpg)
+![WireFrame design] (assets/img/wireframe.jpg)
 
 **The UI highlights:**
 - A hero section with CTA buttons  
