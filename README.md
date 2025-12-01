@@ -4,15 +4,6 @@ Tamil MP3 Downloader – Landing Page
 This project was developed during my Internship at CyberDude Networks Private Limited. This landing page is built using **HTML, CSS, and Bootstrap 5** — without any JavaScript.  
 A clean, responsive, Bootstrap-based landing page designed to showcase the features, installation steps, and music collections of the Tamil MP3 Downloader project.
 
-
-**Live Demo:**  
-https://ambigaa.github.io/mp3-downloader-landing-page/  
-
-
-**UI Design:**  
-![WireFrame design](assets/img/wireframe.jpg)
-
-
 **The UI highlights:**  
 - A hero section with CTA buttons  
 - Feature cards  
@@ -25,7 +16,17 @@ https://ambigaa.github.io/mp3-downloader-landing-page/
 - HTML5  
 - Custom CSS  
 - Bootstrap 5  
-- Bootstrap Icons  
+- Bootstrap Icons
+
+
+**UI Design:**  
+![WireFrame design](assets/img/wireframe.jpg)
+
+
+
+**Live Demo:**  
+https://ambigaa.github.io/mp3-downloader-landing-page/  
+
 
 
 **Screenshots:**  
