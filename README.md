@@ -38,3 +38,7 @@ https://ambigaa.github.io/mp3-downloader-landing-page/
 ### Mobile View  
 ![Mobile view](assets/img/mobile1.PNG)
 ![Mobile view](assets/img/mobile2.PNG)
+
+**Author:**
+Ambigaa 
+Mp3 Downloader Landing page - 2025
