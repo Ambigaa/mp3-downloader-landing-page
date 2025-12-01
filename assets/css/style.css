@@ -1,7 +1,7 @@
 /*full page style*/
  
 body {
-    background-color: #eff3fa; 
+    background-color: #e6f0ff; 
     color: #0d1f3c; 
     font-family: 'Segoe UI', sans-serif;
 }
@@ -54,18 +54,18 @@ body {
 }
 
 .btn-secondary-custom {
-    background-color: #b3d1ff;
+    background-color: #99c2ff;
     color: #0d1f3c;
     border: none;
 }
 
 .btn-secondary-custom:hover {
-    background-color: #a5c7ff;
+    background-color: #80b3ff;
 }
 
 /* Cards*/
 .card-custom {
-    background: linear-gradient(135deg, #dbeafe, #b3d1ff);
+    background-color: #bed6fa;
     border-color: #3399ff;
     border-radius: 12px;
     transition: transform 0.3s, box-shadow 0.3s;
@@ -81,7 +81,7 @@ body {
 }
 .card-custom i{
     font-size: 2rem;
-    color: #395374;
+    color: #3399ff;
 }
 
 /* accordion*/
